@@ -1,6 +1,8 @@
+// Stores a "single" whole number
 struct Integer {
 	Integer();
 <<<<<<< HEAD
+// Copy constructor for initialization
 	Integer(Int param);
 =======
 	Int(Int Integer);
