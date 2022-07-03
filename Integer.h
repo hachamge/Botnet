@@ -1,6 +1,6 @@
 struct Integer {
 	Integer();
-	Int(Int Integer);
+	Integer(Int Integer);
 	int Int;
 	Integer * next;
 };
