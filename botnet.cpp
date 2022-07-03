@@ -7,6 +7,6 @@ int main() {
 	string param;
 	cout << "// Enter a param: ";
 	getline(cin, param);
-	cout << "param: " << param << endl;
+	cout << "param: " << param << " Ui"<< endl;
 	return 0;
 }
